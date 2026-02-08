@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "sparkfun-switch")(type "KiCad")(uri "/home/jhh/.local/share/kicad/6.0/Sparkfun/Libraries/SparkFun-Switches.kicad_sym")(options "")(descr ""))
+)
