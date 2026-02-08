@@ -10,3 +10,4 @@ PCB:
 
 <img width="1783" height="1616" alt="bmp-pcb" src="https://github.com/user-attachments/assets/d995fe04-8667-4488-b145-f9752345093b" />
 
+All registered trademarks are owned by their respective owners. 
