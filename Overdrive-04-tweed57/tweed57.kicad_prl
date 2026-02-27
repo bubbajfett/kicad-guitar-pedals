@@ -1,6 +1,6 @@
 {
   "board": {
-    "active_layer": 31,
+    "active_layer": 0,
     "active_layer_preset": "",
     "auto_track_width": true,
     "hidden_netclasses": [],
@@ -64,11 +64,11 @@
       35,
       36
     ],
-    "visible_layers": "ffcfcff_ffffffff",
+    "visible_layers": "fffffff_7ffffffe",
     "zone_display_mode": 0
   },
   "meta": {
-    "filename": "stomp-chargepump.kicad_prl",
+    "filename": "tweed57.kicad_prl",
     "version": 3
   },
   "project": {
