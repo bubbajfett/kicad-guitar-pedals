@@ -10,4 +10,7 @@
 This has been tested but not thoroughly.    This layout is based on
 several vero layout on Tagboardeffects.blogspot.com
 
+2nd revision of this to use 4pin connectors for wiring simplicity
+
+
 All registered trademarks are owned by their respective owners. 
