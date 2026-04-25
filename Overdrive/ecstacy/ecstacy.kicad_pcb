@@ -3535,7 +3535,7 @@
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp e2dbf914-7d8f-41b2-9a50-a82f9e40e730)
     )
-    (fp_text value "22n" (at 2.5 2.5) (layer "F.Fab")
+    (fp_text value "22n" (at 2.5 0.55) (layer "F.SilkS")
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp d12c8b42-2eb8-4ceb-9bde-0be435d0cb8e)
     )

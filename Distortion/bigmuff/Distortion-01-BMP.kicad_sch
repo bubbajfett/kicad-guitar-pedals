@@ -886,6 +886,22 @@
     (uuid f442ec01-16de-4426-917f-1e10eca8bcf2)
   )
 
+  (text "Most of the other versions have 100n for the coupling capacitors\n(C1, C3, C4, C7, C13)\n"
+    (at 23.2664 153.1112 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 2a0ea7cc-cc49-4d0b-84f8-d4824d132ddd)
+  )
+  (text "\nIf you look at the schematics on bigmuffpage.com, you can see that \nthe topology of most of them are identical to this, but the coupling \ncapacitors and the bias resistors differ slightly.   \n"
+    (at 23.4188 138.4808 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 7a8f357e-2f0a-4b49-9c9f-386d8388792f)
+  )
+  (text "This appears to be close to the Version 9 reissue, but not exactly \nthe same\n"
+    (at 22.9616 145.8468 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid c4a0b220-a4f8-4e70-8ab5-29083702bbc6)
+  )
+
   (global_label "IN" (shape input) (at 224.79 41.91 180)
     (effects (font (size 1.27 1.27)) (justify right))
     (uuid 153c35b3-0ddb-44d3-b4f4-b471dc33c133)
