@@ -1335,7 +1335,7 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 57be801a-218b-4915-a911-74390e5a76f7)
   )
-  (text "R3 was to VB in the schematic I was looking at.   That does not appear\nin any other build I can find,  instead it is to GND.\n\nThis build was bodged... :-(\n"
+  (text "R3 was to VB in the schematic I was looking at.   That does not appear\nin any other build I can find,  instead it is to GND.\n\nThis build was bodged... :-(\n\nMaybe try A250K or A500K for RV3 gain to get more gain.\n\n"
     (at 22.6568 38.1508 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 85ecd393-104f-4aee-9f85-8f6a0494d888)
