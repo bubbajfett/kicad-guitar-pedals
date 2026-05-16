@@ -25,6 +25,34 @@ include
 All of the other ones that have been posted here have been tested
 using test harness only.
 
+Current repo contents:
+
+./Delay/deep_blue_delay
+
+./Util/stomp-chargepump
+./Distortion/percolator
+./Distortion/acapulcogold
+./Distortion/fuzzface
+./Distortion/redllama
+./Distortion/whitefuzz
+./Distortion/bigmuff
+./Distortion/lizardq
+
+./Compressor/bearhug
+
+./Envelope/mutron
+
+./Overdrive/SFTii
+./Overdrive/triple_wreck
+./Overdrive/ecstacy
+./Overdrive/badmonkey
+./Overdrive/fatdrive
+./Overdrive/tweed57
+./Overdrive/timmy
+./Overdrive/KoT
+
+./Equalizer/eq
+
 
 
 All have a gerbers/ subdir with the last gerber file I generated. Using OshPark for pcb generation.    They were done with Kicad 7.
