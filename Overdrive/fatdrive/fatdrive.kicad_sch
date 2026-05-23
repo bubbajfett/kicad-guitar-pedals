@@ -1386,6 +1386,11 @@
     (uuid ff97052a-174d-4182-99c6-918322c802a4)
   )
 
+  (text "substitutes for some of the odd values\n130K -> 120K\n62K -> 56K \n1K6 -> 1K5"
+    (at 15.4432 81.5848 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 14373032-f02f-4675-9e52-28a9856a2451)
+  )
   (text "tone\n" (at 175.768 123.825 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 255ab6cb-292f-475d-bf3e-d5ce5541356e)

@@ -1,7 +1,7 @@
 # Fat Drive
 
 
-This is a clone of the Pigtronice Fad Drive overdrive.  
+This is a clone of the Pigtronice Fat Drive overdrive.  
 
 This also has a very nice crunchy sound.
 
