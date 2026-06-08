@@ -1,5 +1,11 @@
 Distortion pedal, loosely based on BMP
 
+Two PCB layouts now, one for not 100% clear version of BMP, and the
+other based on the ramshead versoin.
+
+The latter is in queue to be verified....
+
+
 Requires KICAD 7
 
 PCB:

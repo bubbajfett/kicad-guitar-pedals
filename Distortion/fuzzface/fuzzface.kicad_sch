@@ -652,7 +652,7 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 55bb06c2-444c-4ec9-a8d2-22b23cb5baa7)
   )
-  (text "Changes for NPN GE\n1) Q1 Q2 changed from PNP CBE to NPN EBC format (AC128 to AC130)\n2) -9V becomes 9V\n3) shoot for 120 hfe for Q2,    80 hfe for Q1.\n4) Adjust q2 collector voltage to 4.5-5V\n\n\n"
+  (text "Changes for NPN GE\n1) Q1 Q2 changed from PNP CBE to NPN EBC format (AC128 to AC130)\n2) -9V becomes 9V\n3) shoot for 120 hfe for Q2,    80 hfe for Q1.\n4) Adjust q2 collector voltage to 1V, according to electorsmash\n\n\n\n"
     (at 168.656 77.47 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 7331b4f5-537b-4797-b38c-6afa10e0716d)
