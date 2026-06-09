@@ -40,6 +40,7 @@ and multiple have been successfully boxed.
 *   Overdrive/tweed57
 *   Overdrive/timmy    --- completed build
 *   Overdrive/KoT
+*   Overdrive/ocd
 
 *   Equalizer/eq   --- completed build
 
