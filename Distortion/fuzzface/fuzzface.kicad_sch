@@ -648,7 +648,8 @@
     (uuid fc42f4bd-b37e-4be8-be84-fa8f6f007e89)
   )
 
-  (text "Electrolytic caps here are all non-polarized\n" (at 169.418 84.328 0)
+  (text "Electrolytic caps here are all non-polarized\nIf using polarized caps, and -9v with PNP germanium, GND is the positive side\nand the input 2.2u cap is positive towards in.\nuser1 layer has the + side denoted.  \n"
+    (at 169.418 84.328 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 55bb06c2-444c-4ec9-a8d2-22b23cb5baa7)
   )
@@ -1127,7 +1128,7 @@
     (property "Value" "47u" (at 76.2 33.782 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Capacitor_THT:C_Radial_D10.0mm_H12.5mm_P5.00mm" (at 73.3552 36.322 0)
+    (property "Footprint" "Capacitor_THT:C_Radial_D6.3mm_H7.0mm_P2.50mm" (at 73.3552 36.322 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 72.39 32.512 0)
