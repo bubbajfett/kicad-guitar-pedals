@@ -19,16 +19,23 @@ and multiple have been successfully boxed.
 *   Delay/deep_blue_delay
 
 *   Util/stomp-chargepump
+*   Util/stomp-3pdt
+*   Util/top-jacks
+
 
 *   Distortion/percolator
 *   Distortion/acapulcogold
 *   Distortion/fuzzface
 *   Distortion/redllama
 *   Distortion/whitefuzz
-*   Distortion/bigmuff --- complete build
+*   Distortion/bigmuff 
+*   Distortion/bigmuff/bmp-ramshead
 *   Distortion/lizardq
+*   Distortion/ejfuzzface
 
 *   Compressor/bearhug
+*   Compressor/engineers_thumb
+
 
 *   Envelope/mutron
 
