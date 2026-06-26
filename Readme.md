@@ -27,9 +27,9 @@ and multiple have been successfully boxed.
 *   Distortion/acapulcogold
 *   Distortion/fuzzface
 *   Distortion/redllama
-*   Distortion/whitefuzz
+*   Distortion/whitefuzz      <<<unverified>>>
 *   Distortion/bigmuff 
-*   Distortion/bigmuff/bmp-ramshead
+*   Distortion/bigmuff/bmp-ramshead   <<<unverified>>>
 *   Distortion/lizardq
 *   Distortion/ejfuzzface
 
