@@ -5,12 +5,12 @@
       "Application": "Pcbnew",
       "Version": "7.0.11+dfsg-1build4"
     },
-    "CreationDate": "2026-06-26T21:10:27-04:00"
+    "CreationDate": "2026-06-25T11:06:13-04:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
-      "Name": "whitefuzz",
-      "GUID": "77686974-6566-4757-9a7a-2e6b69636164",
+      "Name": "ejfuzzface",
+      "GUID": "656a6675-7a7a-4666-9163-652e6b696361",
       "Revision": "rev?"
     },
     "Size": {
@@ -34,47 +34,47 @@
   ],
   "FilesAttributes": [
     {
-      "Path": "whitefuzz-F_Cu.gbr",
+      "Path": "ejfuzzface-F_Cu.gbr",
       "FileFunction": "Copper,L1,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "whitefuzz-B_Cu.gbr",
+      "Path": "ejfuzzface-B_Cu.gbr",
       "FileFunction": "Copper,L2,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "whitefuzz-F_Paste.gbr",
+      "Path": "ejfuzzface-F_Paste.gbr",
       "FileFunction": "SolderPaste,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "whitefuzz-B_Paste.gbr",
+      "Path": "ejfuzzface-B_Paste.gbr",
       "FileFunction": "SolderPaste,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "whitefuzz-F_Silkscreen.gbr",
+      "Path": "ejfuzzface-F_Silkscreen.gbr",
       "FileFunction": "Legend,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "whitefuzz-B_Silkscreen.gbr",
+      "Path": "ejfuzzface-B_Silkscreen.gbr",
       "FileFunction": "Legend,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "whitefuzz-F_Mask.gbr",
+      "Path": "ejfuzzface-F_Mask.gbr",
       "FileFunction": "SolderMask,Top",
       "FilePolarity": "Negative"
     },
     {
-      "Path": "whitefuzz-B_Mask.gbr",
+      "Path": "ejfuzzface-B_Mask.gbr",
       "FileFunction": "SolderMask,Bot",
       "FilePolarity": "Negative"
     },
     {
-      "Path": "whitefuzz-Edge_Cuts.gbr",
+      "Path": "ejfuzzface-Edge_Cuts.gbr",
       "FileFunction": "Profile",
       "FilePolarity": "Positive"
     }
