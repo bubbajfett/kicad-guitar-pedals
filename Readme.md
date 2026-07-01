@@ -11,6 +11,7 @@ I am an amateur in this.   Also this has been a huge learning exercise.    I;ve 
 *   common format pinheader so to be able to use 4pin dupont connector or JST connector when building the
 *   power on the top jack connector, with diode protection.
 *   led on the stomp switch
+*   125B form factor.    Top jacks in a 1590B is hard.
 
 One thing I have learned is that the text size on some of these boards is below
 the JLPCB minimum recommended size; the text looks fine in osh-park boards.   
