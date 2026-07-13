@@ -1,17 +1,19 @@
-# Current guitar pedal projects
+# Current guitar pedal projects 
 
-These pedals have been a learning exercise for me in KiCad. Any guitar pedal PCB published here has been built and tested. In some cases, more than two versions of boards have been created.
+Current count of pedals in this repo is:  26.
+
+These pedals have been a learning exercise for me in KiCad. Any guitar pedal PCB published here has been built and tested. In some cases, more than two versions of boards have been created.   The worst case was 5 versions.
 
 The main idea for doing my own PCB is to allow me to change the footprints and merge and/or hack pedal schematics to come up with new ideas.
 The other reason is I am redoing my pedalboard to convert from side-jacks/veroboard layout to  top-jacks/pcbs.   I have gotten to dislike veroboard layouts.
 
-I am an amateur in this.   Also this has been a huge learning exercise.    I;ve tried to be consistent
+I am an amateur in this.   Also this has been a huge learning exercise.    I've tried to be consistent
 
 *   back of board mounted POTs
 *   common format pinheader so to be able to use 4pin dupont connector or JST connector when building the
 *   power on the top jack connector, with diode protection.
 *   led on the stomp switch
-*   125B form factor.    Top jacks in a 1590B is hard.
+*   125B form factor.    Top jacks in a 1590B is really hard.
 
 One thing I have learned is that the text size on some of these boards is below
 the JLPCB minimum recommended size; the text looks fine in osh-park boards.   
@@ -35,7 +37,7 @@ now on the pedalboard.
 *   Distortion/redllama
 *   Distortion/whitefuzz              modified
 *   Distortion/bigmuff 
-*   Distortion/bigmuff/bmp-ramshead   unverified
+*   Distortion/bigmuff/bmp-ramshead   verified, though not much diff 
 *   Distortion/lizardq
 *   Distortion/ejfuzzface
 
@@ -61,19 +63,20 @@ now on the pedalboard.
 PCB builds in progress are
 
 *   Klon
-*   causalty4 phaser
-*   box of mnetal
+*   box of metal
 *   dr boogie
 *   BMP Ramshead
 *   umble
 *   tonemachine
 *   little angel chorus
 *   kraken
+*   900 fuzz (redo)
+*   Barbershop (redo)
 
-And 3 are stuck in the box of shame 
-*   900 fuzz
+
+And 2 are stuck in the box of shame 
 *   zombiechorus (9 months non-working...)
-*   Barbershop 
+*   causalty4 phaser  (ugggh ... so close)
 
       
 All the above subprojects have a gerbers/ subdir with the last gerber file I generated. Using OshPark for pcb generation.    They were done with Kicad 7.
