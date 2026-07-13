@@ -54,6 +54,7 @@ now on the pedalboard.
 *   Overdrive/timmy    --- completed build
 *   Overdrive/KoT
 *   Overdrive/ocd
+*   Overdrive/revv-g4
 
 *   Equalizer/eq   --- completed build
 
@@ -63,7 +64,6 @@ PCB builds in progress are
 *   causalty4 phaser
 *   box of mnetal
 *   dr boogie
-*   revv-g4
 *   BMP Ramshead
 *   umble
 *   tonemachine
