@@ -37,7 +37,7 @@ now on the pedalboard.
 *   Distortion/redllama
 *   Distortion/whitefuzz              modified
 *   Distortion/bigmuff 
-*   Distortion/bigmuff/bmp-ramshead   unverified
+*   Distortion/bigmuff/bmp-ramshead   verified, though not much diff 
 *   Distortion/lizardq
 *   Distortion/ejfuzzface
 
