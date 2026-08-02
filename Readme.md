@@ -1,6 +1,6 @@
 # Current guitar pedal projects 
 
-Current count of pedals in this repo is:  26.
+Current count of pedals in this repo is:  27.
 
 These pedals have been a learning exercise for me in KiCad. Any guitar pedal PCB published here has been built and tested. In some cases, more than two versions of boards have been created.   The worst case was 5 versions.
 
