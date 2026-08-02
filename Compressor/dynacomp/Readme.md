@@ -1,5 +1,5 @@
 
-# Bearhug
+# dynacomp
 
 
 Guitar Pedal PCB based on MXR Dyna Comp compressor pedal.
