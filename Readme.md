@@ -43,7 +43,8 @@ now on the pedalboard.
 
 *   Compressor/bearhug
 *   Compressor/engineers_thumb
-
+*   Compressor/dynacomp
+*   Compressor/dynacomp-lm13700    *not verified*
 
 *   Envelope/mutron
 
@@ -63,9 +64,8 @@ now on the pedalboard.
 PCB builds in progress are
 
 *   Klon
-*   box of metal
+*   box of metal      
 *   dr boogie
-*   BMP Ramshead
 *   umble
 *   tonemachine
 *   little angel chorus
