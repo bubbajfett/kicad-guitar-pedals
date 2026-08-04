@@ -2,6 +2,8 @@
 
 Current count of pedals in this repo is:  27.
 
+The latest change is to add a PDF in the root of each pedal directory, which has the readme, the schematic as an image, and the front and back layout of the PCB (F.Cu+F.Silkscreen, B.Cu+F.Silkscreen). Also a BOM of the parts is included.    This was all done scripted using kicad-cli  in a VM (Fedora 44, Kicad 10 !!!) as the Kicad 7 versions of this did not work very well.   I will add pics of the real tested boards as an addendum to these.    This change was a result of some feedback I recieved about the lack of clarity of what is in this repo.
+
 These pedals have been a learning exercise for me in KiCad. Any guitar pedal PCB published here has been built and tested. In some cases, more than two versions of boards have been created.   The worst case was 5 versions.
 
 The main idea for doing my own PCB is to allow me to change the footprints and merge and/or hack pedal schematics to come up with new ideas.
