@@ -8,4 +8,6 @@ This is the 2nd version of the pedal.   The first version had the fuzz pot witho
 So this pedal circuit  is verified.  I hate using a 125B box on something
 this small but my last attempt at boxing top-jacks on a 1590B did not work very well.
 
+![build doc here](./ejfuzzface.pdf)
+
 Anyway, all trademarks belong to their respective owners.
