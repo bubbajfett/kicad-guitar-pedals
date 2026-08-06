@@ -10,5 +10,8 @@ pedalpcb) forums, the recommendation was to use J113 (and a couple
 other jfets I did not have).  Replacing this made this sound so much
 better.
 
+![build doc here](./whitefuzz.pdf)
+
+
 
 All registered trademarks are owned by their respective owners. 
