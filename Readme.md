@@ -1,6 +1,6 @@
 # Current guitar pedal projects 
 
-Current count of pedals in this repo is:  27.
+Current count of pedals in this repo is:  30.
 
 The latest change is to add a PDF in the root of each pedal directory, which has the readme, the schematic as an image, and the front and back layout of the PCB (F.Cu+F.Silkscreen, B.Cu+F.Silkscreen). Also a BOM of the parts is included.    This was all done scripted using kicad-cli  in a VM (Fedora 44, Kicad 10 !!!) as the Kicad 7 versions of this did not work very well.   I will add pics of the real tested boards as an addendum to these.    This change was a result of some feedback I recieved about the lack of clarity of what is in this repo.
 
@@ -60,25 +60,37 @@ now on the pedalboard.
 *   Overdrive/KoT
 *   Overdrive/ocd
 *   Overdrive/revv-g4
+*   Overdrive/drboogie
 
 *   Equalizer/eq   --- completed build
 
 PCB builds in progress are
 
 *   Klon
-*   box of metal      
-*   dr boogie
 *   umble
 *   tonemachine
 *   little angel chorus
-*   kraken
 *   900 fuzz (redo)
 *   Barbershop (redo)
+*   phase45
+*   g2
+*   beod
+*   blackash
+*   blackdarling
+*   fy2  (shin-ey fy2)
+*   bluesdriver
 
 
-And 2 are stuck in the box of shame 
+And 4 are stuck in the box of shame 
 *   zombiechorus (9 months non-working...)
 *   causalty4 phaser  (ugggh ... so close)
+*   box of metal      
+*   kraken
+
+
+
+
+
 
       
 All the above subprojects have a gerbers/ subdir with the last gerber file I generated. Using OshPark for pcb generation.    They were done with Kicad 7.
