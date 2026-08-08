@@ -10,7 +10,9 @@ The toggle switch does not change the voicing as much as I thought it
 would, but overall this gives a nice overdrive/distortion high-gain
 pedal to be added to my board.
 
-
 I have not boxed this one yet.
+
+![build doc here](./revv-g4.pdf)
+
 
 All trademarks belong to their respective owners.

@@ -13,6 +13,9 @@ An additional input resistor, r24, was added based on the tagboardeffects
 layout.
 
 
+![build doc here](./SFTii.pdf)
+
+
 
 All trademarks belong to their respective trademark owners.
 

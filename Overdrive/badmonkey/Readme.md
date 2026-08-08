@@ -17,4 +17,6 @@ so adjusted  it to 59.5mm wide.
 
 So this pedal circuit  is verified. I have not boxed this one yet, either.
 
+![build doc here](./badmonkey.pdf)
+
 All trademarks belong to their respective owners.

@@ -7,4 +7,7 @@ Version 1 had error making the drive pot useless.    V1 was bodged by putting a 
 
 The current build seems to be fully functional.
 
+![build doc here](./KoT.pdf)
+
+
 All registered trademarks are owned by their respective owners. 

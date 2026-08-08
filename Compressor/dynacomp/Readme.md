@@ -11,5 +11,6 @@ This seems to be working correctly, but testing compression pedals is kind of we
 Because the CA3080 is sort of unobtainable now, except at pretty steep prices, I made a 2nd version which uses 1/2 of the LM13700 instead.    This is not yet verified, and is marked so in the .kicad_pcb file.
 
 
+
 All registered trademarks are owned by their respective owners.
 

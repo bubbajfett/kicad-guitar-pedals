@@ -9,4 +9,7 @@ to fit into a 125B.
 
 So this pedal circuit  is verified. I have not boxed this one yet, either.
 
+![build doc here](./triple_wreck.pdf)
+
+
 All trademarks belong to their respective owners.

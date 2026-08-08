@@ -24,5 +24,7 @@ the silkscreen layer.
 
 v4:  final version.      
 
+![build doc here](./timmy.pdf)
+
 
 All trademarks belong to their respective owners.
