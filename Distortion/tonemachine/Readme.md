@@ -24,7 +24,7 @@ lost a lot of volume.    I am thinking this is a build issue as the schematic
 matches a number of the online schematics and build docs I have found online.
 Still researching this one.
 
-#[build doc here](./tonemachine.pdf)
+![build doc here](./tonemachine.pdf)
 
 All trademarks belong to their respective owners.
 
