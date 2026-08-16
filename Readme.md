@@ -42,6 +42,7 @@ now on the pedalboard.
 *   Distortion/bigmuff/bmp-ramshead   verified, though not much diff 
 *   Distortion/lizardq
 *   Distortion/ejfuzzface
+*   Distortion/tonemachine
 
 *   Compressor/bearhug
 *   Compressor/engineers_thumb
@@ -62,13 +63,13 @@ now on the pedalboard.
 *   Overdrive/revv-g4
 *   Overdrive/drboogie
 
+
 *   Equalizer/eq   --- completed build
 
 PCB builds in progress are
 
 *   Klon
 *   umble
-*   tonemachine
 *   little angel chorus
 *   900 fuzz (redo)
 *   Barbershop (redo)
@@ -79,7 +80,6 @@ PCB builds in progress are
 *   blackdarling
 *   fy2  (shin-ey fy2)
 *   bluesdriver
-
 
 And 4 are stuck in the box of shame 
 *   zombiechorus (9 months non-working...)
