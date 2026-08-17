@@ -1,6 +1,6 @@
 # Current guitar pedal projects 
 
-Current count of pedals in this repo is:  30.
+Current count of pedals in this repo is:  32.
 
 The latest change is to add a PDF in the root of each pedal directory, which has the readme, the schematic as an image, and the front and back layout of the PCB (F.Cu+F.Silkscreen, B.Cu+F.Silkscreen). Also a BOM of the parts is included.    This was all done scripted using kicad-cli  in a VM (Fedora 44, Kicad 10 !!!) as the Kicad 7 versions of this did not work very well.   I will add pics of the real tested boards as an addendum to these.    This change was a result of some feedback I recieved about the lack of clarity of what is in this repo.
 
@@ -62,6 +62,7 @@ now on the pedalboard.
 *   Overdrive/ocd
 *   Overdrive/revv-g4
 *   Overdrive/drboogie
+*   Overdrive/umble
 
 
 *   Equalizer/eq   --- completed build
@@ -69,7 +70,6 @@ now on the pedalboard.
 PCB builds in progress are
 
 *   Klon
-*   umble
 *   little angel chorus
 *   900 fuzz (redo)
 *   Barbershop (redo)
