@@ -26,14 +26,17 @@ Here are the current repo contents.   These have all been tested outside the box
 and multiple have been successfully boxed.  8 have been boxed and are 
 now on the pedalboard. 
 
-*   Delay/deep_blue_delay
 
-*   Util/stomp-chargepump
-*   Util/stomp-3pdt
-*   Util/top-jacks
+| PEDAL | BUILD DOC | Verified|
+| ----  | -------   | ------- |
+| Delay/deep_blue_delay | [deep-blue-delay](./Delay/deep_blue_delay/deep_blue_delay.pdf) | Y |
+| Util/stomp-chargepump |  [stomp-chargepump](./Util/stomp-chargepump/stomp-chargepump.pdf) | Y |
+| Util/stomp-3pdt | [stomp-3pdt](./Util/stomp-3pdt/stomp-3pdt.pdf) | Y | 
+| Util/top-jacks | [top-jacks](./Util/top-jacks/top-jacks.pdf) | Y |
+| Distortion/percolator | [here](./Distortion/percolator/percolator.pdf) | Y |
 
 
-*   Distortion/percolator
+
 *   Distortion/acapulcogold
 *   Distortion/fuzzface
 *   Distortion/redllama
