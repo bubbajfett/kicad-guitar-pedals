@@ -43,7 +43,7 @@ now on the pedalboard.
 | Distortion/lizardq | [lizardq](./Distortion/lizardq/lizardq.pdf) | Y | 
 | Distortion/ejfuzzface | [ejfuzzface](./Distortion/ejfuzzface/ejfuzzface.pdf) | Y | 
 | Distortion/tonemachine | [tonemachine](./Distortion/tonemachine/tonemachine.pdf) | Y |
-| Distortion/BMP2 | --- | Y |
+| Distortion/bmp2 | --- | Y |
 | Distortion/blackdarling | --- | Y |
 | Compressor/bearhug | [bearhug](./Compressor/bearhug/bearhug.pdf) | Y | 
 | Compressor/engineers_thumb | [engineers_thumb](./Compressor/engineers_thumb/engineers_thumb.pdf) | Y |
@@ -77,6 +77,13 @@ PCB builds in progress are
 *   blackdarling
 *   fy2  (shin-ey fy2)
 *   bluesdriver
+*   brutalist Jr
+*   fortinfuzz
+*   katzenkonig
+*   paisley
+*   plexidrive
+*   sabbracadabra
+*   tubescreamer
 
 And 4 are stuck in the box of shame 
 *   zombiechorus (9 months non-working...)
