@@ -1,6 +1,6 @@
 # Current guitar pedal projects 
 
-Current count of pedals in this repo is:  32.
+Current count of pedals in this repo is:  34.
 
 The latest change is to add a PDF in the root of each pedal directory, which has the readme, the schematic as an image, and the front and back layout of the PCB (F.Cu+F.Silkscreen, B.Cu+F.Silkscreen). Also a BOM of the parts is included.    This was all done scripted using kicad-cli  in a VM (Fedora 44, Kicad 10 !!!) as the Kicad 7 versions of this did not work very well.   I will add pics of the real tested boards as an addendum to these.    This change was a result of some feedback I recieved about the lack of clarity of what is in this repo.
 
@@ -33,53 +33,47 @@ now on the pedalboard.
 | Util/stomp-chargepump |  [stomp-chargepump](./Util/stomp-chargepump/stomp-chargepump.pdf) | Y |
 | Util/stomp-3pdt | [stomp-3pdt](./Util/stomp-3pdt/stomp-3pdt.pdf) | Y | 
 | Util/top-jacks | [top-jacks](./Util/top-jacks/top-jacks.pdf) | Y |
-| Distortion/percolator | [here](./Distortion/percolator/percolator.pdf) | Y |
+| Distortion/percolator | [percolator](./Distortion/percolator/percolator.pdf) | Y |
+| Distortion/acapulcogold | [acapulcogold](./Distortion/acapulcogold/acapulcogold.pdf) | Y |
+| Distortion/fuzzface | [fuzzface](./Distortion/fuzzface/fuzzface.pdf) | Y | 
+| Distortion/redllama | [redllama](./Distortion/redllama/redllama.pdf) | Y |
+| Distortion/whitefuzz | [whitefuzz](./Distortion/whitefuzz/whitefuzz.pdf) | Y |
+| Distortion/bigmuff | [bigmuff](./Distortion/bigmuff/bigmuff.pdf) | Y | 
+| Distortion/bigmuff/bmp-ramshead  | --- | Y |
+| Distortion/lizardq | [lizardq](./Distortion/lizardq/lizardq.pdf) | Y | 
+| Distortion/ejfuzzface | [ejfuzzface](./Distortion/ejfuzzface/ejfuzzface.pdf) | Y | 
+| Distortion/tonemachine | [tonemachine](./Distortion/tonemachine/tonemachine.pdf) | Y |
+| Distortion/BMP2 | --- | Y |
+| Distortion/blackdarling | --- | Y |
+| Compressor/bearhug | [bearhug](./Compressor/bearhug/bearhug.pdf) | Y | 
+| Compressor/engineers_thumb | [engineers_thumb](./Compressor/engineers_thumb/engineers_thumb.pdf) | Y |
+| Compressor/dynacomp | --- | Y |
+| Compressor/dynacomp-lm13700  | --- | N | 
+| Envelope/mutron | [mutron-v](./Envelope/mutron/mutron.pdf) | Y |
+| Overdrive/SFTii | [sftii](./Overdrive/SFTii/SFTii.pdf) | Y | 
+| Overdrive/triple_wreck | [triple_wreck](./Overdrive/triple_wreck/triple_wreck.pdf) | Y | 
+| Overdrive/ecstacy | [ecstacy](./Overdrive/ecstacy/ecstacy.pdf) | Y | 
+| Overdrive/badmonkey | [badmonkey](./Overdrive/badmonkey/badmonkey.pdf) | Y | 
+| Overdrive/fatdrive | [fatdrive](./Overdrive/fatdrive/fatdrive.pdf)| Y |
+| Overdrive/tweed57 | [tweed57](./Overdrive/tweed57/tweed57.pdf)|Y|
+| Overdrive/timmy  | [timmy](./Overdrive/timmy/timmy.pdf) | Y |
+| Overdrive/KoT | [KoT](./Overdrive/KoT/KoT.pdf) | Y | 
+| Overdrive/ocd | [ocd](./Overdrive/ocd/ocd.pdf) | Y |
+| Overdrive/revv-g4 | [revv-g4](./Overdrive/revv-g4/revv-g4.pdf) | Y |
+| Overdrive/drboogie | ... | Y |
+| Overdrive/umble | [umble](./Overdrive/umble/umble.pdf) | Y |
+| Equalizer/eq | [eq](./Equalizer/eq/eq.pdf) | Y | 
 
-
-
-*   Distortion/acapulcogold
-*   Distortion/fuzzface
-*   Distortion/redllama
-*   Distortion/whitefuzz              modified
-*   Distortion/bigmuff 
-*   Distortion/bigmuff/bmp-ramshead   verified, though not much diff 
-*   Distortion/lizardq
-*   Distortion/ejfuzzface
-*   Distortion/tonemachine
-
-*   Compressor/bearhug
-*   Compressor/engineers_thumb
-*   Compressor/dynacomp
-*   Compressor/dynacomp-lm13700    *not verified*
-
-*   Envelope/mutron
-
-*   Overdrive/SFTii
-*   Overdrive/triple_wreck  --- completed build
-*   Overdrive/ecstacy   --- completed build
-*   Overdrive/badmonkey  --- completed buld
-*   Overdrive/fatdrive   --- completed build
-*   Overdrive/tweed57
-*   Overdrive/timmy    --- completed build
-*   Overdrive/KoT
-*   Overdrive/ocd
-*   Overdrive/revv-g4
-*   Overdrive/drboogie
-*   Overdrive/umble
-
-
-*   Equalizer/eq   --- completed build
 
 PCB builds in progress are
 
-*   Klon
-*   little angel chorus
 *   900 fuzz (redo)
 *   Barbershop (redo)
+*   Klon
+*   little angel chorus
 *   phase45
 *   g2
 *   beod
-*   blackash
 *   blackdarling
 *   fy2  (shin-ey fy2)
 *   bluesdriver
@@ -97,6 +91,9 @@ And 4 are stuck in the box of shame
 
       
 All the above subprojects have a gerbers/ subdir with the last gerber file I generated. Using OshPark for pcb generation.    They were done with Kicad 7.
+Most were done with manual placement of the elements on the PCB, and then using freerouting to autoroute the traces.
+
+
 
 License is the general Creative Commons.
 All registered trademarks are owned by their respective owners.
