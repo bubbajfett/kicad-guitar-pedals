@@ -45,10 +45,12 @@ now on the pedalboard.
 | Distortion/tonemachine | [tonemachine](./Distortion/tonemachine/tonemachine.pdf) | Y |
 | Distortion/bmp2 | --- | Y |
 | Distortion/blackdarling | --- | Y |
+| Distortion/900fuzz | --- | Y |
 | Compressor/bearhug | [bearhug](./Compressor/bearhug/bearhug.pdf) | Y | 
 | Compressor/engineers_thumb | [engineers_thumb](./Compressor/engineers_thumb/engineers_thumb.pdf) | Y |
 | Compressor/dynacomp | --- | Y |
-| Compressor/dynacomp-lm13700  | --- | N | 
+| Compressor/dynacomp-lm13700  | --- | N |
+| Chorus/littleangel | --- | Y |
 | Envelope/mutron | [mutron-v](./Envelope/mutron/mutron.pdf) | Y |
 | Overdrive/SFTii | [sftii](./Overdrive/SFTii/SFTii.pdf) | Y | 
 | Overdrive/triple_wreck | [triple_wreck](./Overdrive/triple_wreck/triple_wreck.pdf) | Y | 
@@ -67,14 +69,11 @@ now on the pedalboard.
 
 PCB builds in progress are
 
-*   900 fuzz (redo)
 *   Barbershop (redo)
 *   Klon
-*   little angel chorus
 *   phase45
 *   g2
-*   beod
-*   blackdarling
+*   beod    (built, passes sound, but *** so much noise).
 *   fy2  (shin-ey fy2)
 *   bluesdriver
 *   brutalist Jr

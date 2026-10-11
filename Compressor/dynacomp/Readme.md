@@ -12,5 +12,5 @@ Because the CA3080 is sort of unobtainable now, except at pretty steep prices, I
 
 
 
-All registered trademarks are owned by their respective owners.
+All registered trademarks are owned by their respective owners.~
 
