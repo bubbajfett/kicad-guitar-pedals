@@ -1,6 +1,8 @@
 # Current guitar pedal projects 
 
-Current count of pedals in this repo is:  34.
+Current count of pedals in this repo is:  36(?).    Not doing too many more, though I have a FV-1 and a Daisy seed one I'm working on longer term.
+
+The requirements here are KICAD 7 or later.     Each subdir has a gerbers directory, which has the final set of gerbers used.    
 
 The latest change is to add a PDF in the root of each pedal directory, which has the readme, the schematic as an image, and the front and back layout of the PCB (F.Cu+F.Silkscreen, B.Cu+F.Silkscreen). Also a BOM of the parts is included.    This was all done scripted using kicad-cli  in a VM (Fedora 44, Kicad 10 !!!) as the Kicad 7 versions of this did not work very well.   I will add pics of the real tested boards as an addendum to these.    This change was a result of some feedback I recieved about the lack of clarity of what is in this repo.
 
@@ -9,21 +11,26 @@ These pedals have been a learning exercise for me in KiCad. Any guitar pedal PCB
 The main idea for doing my own PCB is to allow me to change the footprints and merge and/or hack pedal schematics to come up with new ideas.
 The other reason is I am redoing my pedalboard to convert from side-jacks/veroboard layout to  top-jacks/pcbs.   I have gotten to dislike veroboard layouts.
 
-I am an amateur in this.   Also this has been a huge learning exercise.    I've tried to be consistent
+I am an amateur in this.   Also this has been a huge learning exercise.    I've tried to be consistent with some design decisions.
 
-*   back of board mounted POTs
-*   common format pinheader so to be able to use 4pin dupont connector or JST connector when building the
-*   power on the top jack connector, with diode protection.
+*   back of board mounted POTs.   Tried using both 16mm and 9mm pots (RK97?)
+*   common format pinheader so to be able to use 4pin dupont connector or JST connector when building.   The topjacks pcb broke this "common format (9v, Out, In, Gnd --- from left to right)",
+in that it was initially intended that the PCB be oriented closest to the the 125B shell bottom, but that made assembly more difficult.   I ordered panels of it from JLPCB, and so I;m just wiring them
+backwards.
+*   power on the top jack connector, with diode protection there.
 *   led on the stomp switch
-*   125B form factor.    Top jacks in a 1590B is really hard.
+*   125B form factor.    Top jacks in a 1590B is really hard unless the power connector is modified or moved somewhere else.
+
 
 One thing I have learned is that the text size on some of these boards is below
-the JLPCB minimum recommended size; the text looks fine in osh-park boards.   
+the JLPCB minimum recommended size; the text looks fine in osh-park boards.
+
+Several of the build docs have pictures of the final builds.    Tonemachine is the latest...
 
 Putting these pedal layouts out there for any interested party.   Do what you want with them. 
 
 Here are the current repo contents.   These have all been tested outside the box,
-and multiple have been successfully boxed.  8 have been boxed and are 
+and multiple have been successfully boxed.  12  have been boxed and are 
 now on the pedalboard. 
 
 
@@ -92,15 +99,11 @@ And 4 are stuck in the box of shame
 
 
 
-
-
-
-      
 All the above subprojects have a gerbers/ subdir with the last gerber file I generated. Using OshPark for pcb generation.    They were done with Kicad 7.
 Most were done with manual placement of the elements on the PCB, and then using freerouting to autoroute the traces.
 
+License is the general Creative Commons.     Have fun!
 
 
-License is the general Creative Commons.
 All registered trademarks are owned by their respective owners.
 
