@@ -63,7 +63,7 @@ now on the pedalboard.
 | Overdrive/triple_wreck | [triple_wreck](./Overdrive/triple_wreck/triple_wreck.pdf) | Y | 
 | Overdrive/ecstacy | [ecstacy](./Overdrive/ecstacy/ecstacy.pdf) | Y | 
 | Overdrive/badmonkey | [badmonkey](./Overdrive/badmonkey/badmonkey.pdf) | Y |
-| Overdrive/bsiab |  [bsiab[(./Overdrive/bsiab/bsiab.pdf) | Y |
+| Overdrive/bsiab |  [bsiab](./Overdrive/bsiab/bsiab.pdf) | Y |
 | Overdrive/fatdrive | [fatdrive](./Overdrive/fatdrive/fatdrive.pdf)| Y |
 | Overdrive/tweed57 | [tweed57](./Overdrive/tweed57/tweed57.pdf)|Y|
 | Overdrive/timmy  | [timmy](./Overdrive/timmy/timmy.pdf) | Y |
