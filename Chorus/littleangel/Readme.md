@@ -8,5 +8,7 @@ THis has the "Vibe Switch Mod" someone did,  which changes
 between vibrato and chorus modes.    Nice pedal.
 
 
+![build doc here](./littleangel.pdf)
+
 
 All trademarks belong to their respective owners.
