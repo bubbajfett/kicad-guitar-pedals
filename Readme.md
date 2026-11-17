@@ -1,6 +1,6 @@
 # Current guitar pedal projects 
 
-Current count of pedals in this repo is:  36(?).    Not doing too many more, though I have a FV-1 and a Daisy seed one I'm working on longer term, as well as clearing out the box of shame.
+Current count of pedals in this repo is something like 50.    Not doing too many more, though I have a FV-1 and a Daisy seed one I'm working on longer term, as well as clearing out the box of shame.
 
 The requirements here are KICAD 7 or later.     Each subdir has a gerbers directory, which has the final set of gerbers used.    
 
@@ -85,10 +85,7 @@ PCB builds in progress are
 *   phase45
 *   g2
 *   beod    (built, passes sound, but *** so much noise).
-*   fy2  (shin-ey fy2)
 *   bluesdriver
-*   brutalist Jr
-*   fortinfuzz
 *   katzenkonig
 *   paisley
 *   plexidrive
@@ -100,6 +97,7 @@ And 4 are stuck in the box of shame
 *   causalty4 phaser  (ugggh ... so close)
 *   box of metal      
 *   kraken
+
 
 
 
