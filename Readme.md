@@ -1,8 +1,8 @@
 # Current guitar pedal projects 
 
-Current count of pedals in this repo is something like 50.    Not doing too many more, though I have a FV-1 and a Daisy seed one I'm working on longer term, as well as clearing out the box of shame.
+Current count of pedals in this repo is something like 50.    Not doing too many more, though I have a FV-1 and a Daisy seed one I'm working on longer term, as well as clearing out the box of shame.  I have been stymied on a number of recent pedal builds testing out of box due to the rig I was using having some kind of bad wires, causing huge amounts of hum.    I reworked the testing rig and have now verified about 6 or 7 more in last week.
 
-The requirements here are KICAD 7 or later.     Each subdir has a gerbers directory, which has the final set of gerbers used.    
+Anyway, the requirements here are KICAD 7 or later.     Each subdir has a gerbers directory, which has the final set of gerbers used.    
 
 The latest change is to add a PDF in the root of each pedal directory, which has the readme, the schematic as an image, and the front and back layout of the PCB (F.Cu+F.Silkscreen, B.Cu+F.Silkscreen). Also a BOM of the parts is included.    This was all done scripted using kicad-cli  in a VM (Fedora 44, Kicad 10 !!!) as the Kicad 7 versions of this did not work very well.   I will add pics of the real tested boards as an addendum to these.    This change was a result of some feedback I recieved about the lack of clarity of what is in this repo.
 
@@ -81,14 +81,15 @@ now on the pedalboard.
 PCB builds in progress are
 
 *   Barbershop (redo)
+*   paisley
+*   plexidrive
+*   beod
+
 *   Klon
 *   phase45
 *   g2
-*   beod    (built, passes sound, but *** so much noise).
 *   bluesdriver
 *   katzenkonig
-*   paisley
-*   plexidrive
 *   sabbracadabra
 *   tubescreamer
 
