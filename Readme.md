@@ -40,22 +40,25 @@ now on the pedalboard.
 | Util/stomp-chargepump |  [stomp-chargepump](./Util/stomp-chargepump/stomp-chargepump.pdf) | Y |
 | Util/stomp-3pdt | [stomp-3pdt](./Util/stomp-3pdt/stomp-3pdt.pdf) | Y | 
 | Util/top-jacks | [top-jacks](./Util/top-jacks/top-jacks.pdf) | Y |
-| Distortion/percolator | [percolator](./Distortion/percolator/percolator.pdf) | Y |
+| Distortion/900fuzz | [900fuzz](./Distortion/900fuzz/900fuzz.pdf) | Y |
 | Distortion/acapulcogold | [acapulcogold](./Distortion/acapulcogold/acapulcogold.pdf) | Y |
-| Distortion/fuzzface | [fuzzface](./Distortion/fuzzface/fuzzface.pdf) | Y | 
-| Distortion/redllama | [redllama](./Distortion/redllama/redllama.pdf) | Y |
-| Distortion/whitefuzz | [whitefuzz](./Distortion/whitefuzz/whitefuzz.pdf) | Y |
 | Distortion/bigmuff | [bigmuff](./Distortion/bigmuff/bigmuff.pdf) | Y | 
 | Distortion/bigmuff/bmp-ramshead  | --- | Y |
-| Distortion/lizardq | [lizardq](./Distortion/lizardq/lizardq.pdf) | Y | 
-| Distortion/ejfuzzface | [ejfuzzface](./Distortion/ejfuzzface/ejfuzzface.pdf) | Y | 
-| Distortion/tonemachine | [tonemachine](./Distortion/tonemachine/tonemachine.pdf) | Y |
-| Distortion/bmp2 | --- | Y |
 | Distortion/blackdarling | --- | Y |
-| Distortion/900fuzz | --- | Y |
+| Distortion/brutalistjr | [brutalist jr](./Distortion/brutalistjr/brutalistjr.pdf) | Y |
+| Distortion/bmp2 | [BMP2](./Distortion/bmp2/bmp2.pdf) | Y |
+| Distortion/ejfuzzface | [ejfuzzface](./Distortion/ejfuzzface/ejfuzzface.pdf) | Y |
+| Distortion/fortinfuzz | [fortinfuzz](./Distortion/fortinfuzz/fortinfuzz.pdf) | Y |
+| Distortion/fuzzface | [fuzzface](./Distortion/fuzzface/fuzzface.pdf) | Y |
+| Distortion/fy2 | [Shin-ey fy2](./Distortion/fy2/fy2.pdf) | Y  |
+| Distortion/lizardq | [lizardq](./Distortion/lizardq/lizardq.pdf) | Y | 
+| Distortion/percolator | [percolator](./Distortion/percolator/percolator.pdf) | Y |
+| Distortion/tonemachine | [tonemachine](./Distortion/tonemachine/tonemachine.pdf) | Y |
+| Distortion/redllama | [redllama](./Distortion/redllama/redllama.pdf) | Y |
+| Distortion/whitefuzz | [whitefuzz](./Distortion/whitefuzz/whitefuzz.pdf) | Y |
 | Compressor/bearhug | [bearhug](./Compressor/bearhug/bearhug.pdf) | Y | 
 | Compressor/engineers_thumb | [engineers_thumb](./Compressor/engineers_thumb/engineers_thumb.pdf) | Y |
-| Compressor/dynacomp | --- | Y |
+| Compressor/dynacomp | ---  | Maybe? |
 | Compressor/dynacomp-lm13700  | --- | N |
 | Chorus/littleangel | [littleangel](./Chorus/littleangel/littleangel.pdf) | Y |
 | Envelope/mutron | [mutron-v](./Envelope/mutron/mutron.pdf) | Y |
